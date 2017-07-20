@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 public class TC_002 {
 	@Test
-	public void testcases1() {
+	public void testcases2() {
 		System.setProperty("webdriver.chrome.driver", "./Driver/chromedriver.exe");
 		ChromeDriver driver = new ChromeDriver();
 
